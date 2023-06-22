@@ -1,2 +1,1 @@
-# PrepCourseHenryBTO
-Este es un repositorio de prueba de mi pre-curso de SoyHenry
+Este es un proyecto prueba de como crear un repositorio y clonarlo desde GitHub a mi escritorio
